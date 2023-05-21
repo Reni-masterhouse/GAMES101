@@ -1,0 +1,3 @@
+/Users/liling/Desktop/Coursera/GAMES/Assignment3/Code/build/CMakeFiles/Rasterizer.dir
+/Users/liling/Desktop/Coursera/GAMES/Assignment3/Code/build/CMakeFiles/edit_cache.dir
+/Users/liling/Desktop/Coursera/GAMES/Assignment3/Code/build/CMakeFiles/rebuild_cache.dir
