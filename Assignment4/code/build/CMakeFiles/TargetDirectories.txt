@@ -1,0 +1,3 @@
+/Users/liling/Desktop/Coursera/GAMES/Assignment4/code/build/CMakeFiles/BezierCurve.dir
+/Users/liling/Desktop/Coursera/GAMES/Assignment4/code/build/CMakeFiles/edit_cache.dir
+/Users/liling/Desktop/Coursera/GAMES/Assignment4/code/build/CMakeFiles/rebuild_cache.dir
