@@ -1,0 +1,3 @@
+/Users/liling/Desktop/Coursera/GAMES/Assignment5/Code/build/CMakeFiles/RayTracing.dir
+/Users/liling/Desktop/Coursera/GAMES/Assignment5/Code/build/CMakeFiles/edit_cache.dir
+/Users/liling/Desktop/Coursera/GAMES/Assignment5/Code/build/CMakeFiles/rebuild_cache.dir
